@@ -605,7 +605,3 @@ approval:
 4. [Lofty — the Nasdaq for real estate](https://www.ycombinator.com/launches/LGz-lofty-the-nasdaq-for-real-estate)
 
 </details>
-
----
-
-<p align="center"><sub>NoiseGate · агент предлагает, шлюз проверяет, инвестор подтверждает</sub></p>

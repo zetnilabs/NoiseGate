@@ -563,11 +563,10 @@ approval:
 ### Материалы команды и референсы
 
 5. **zetnilabs/NoiseGate.** [Репозиторий проекта](https://github.com/zetnilabs/NoiseGate) — README, архитектура и диаграммы.
-6. **Рабочий документ заявки.** [Черновик ответов](https://docs.google.com/document/d/1hZmFeE2-wsjLkZWB37vgdRd-416D2Bpo2iaQoWAncts/edit?usp=sharing) — исходные формулировки, из которых собраны ответы для «Инвест. Премаркета».
-7. **Яндекс Доски.** [Рабочая доска команды](https://boards.yandex.ru/whiteboard/?hash=b92fb23c20c1df447b9ff19bab40496a) — наброски архитектуры и сценариев.
-8. **T-Bank Dev Portal.** [T-Invest MCP: n8n](https://developer.tbank.ru/invest/mcp/platforms-connect/n8n-platform) — пример подключения T-Invest MCP к платформе оркестрации; ориентир для интеграции.
-9. **Composer.** [composer.trade](https://www.composer.trade/) — референс интерфейса и агентного трейдинга.
-10. **Y Combinator.** [AnyAlpha](https://www.ycombinator.com/companies/anyalpha) — агентная торговая платформа; один из первых референсов команды.
+6. **Яндекс Доски.** [Рабочая доска команды](https://boards.yandex.ru/whiteboard/?hash=b92fb23c20c1df447b9ff19bab40496a) — наброски архитектуры и сценариев.
+7. **T-Bank Dev Portal.** [T-Invest MCP: n8n](https://developer.tbank.ru/invest/mcp/platforms-connect/n8n-platform) — пример подключения T-Invest MCP к платформе оркестрации; ориентир для интеграции.
+8. **Composer.** [composer.trade](https://www.composer.trade/) — референс интерфейса и агентного трейдинга.
+9. **Y Combinator.** [AnyAlpha](https://www.ycombinator.com/companies/anyalpha) — агентная торговая платформа; один из первых референсов команды.
 
 ### YC-лендскейп: 22 материала
 
